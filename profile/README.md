@@ -1,5 +1,7 @@
 # 쿠석 쿠석
 건대 장소 공유서비스  "쿠석쿠석" 입니다.
+![image](https://github.com/KONKUK-MAP-Service/.github/assets/58305106/db476173-7c4f-4e0f-bce9-9982cb8028c4)
+
 
 <aside>  
     
