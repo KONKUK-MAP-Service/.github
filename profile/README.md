@@ -36,7 +36,9 @@
 ## ⚙️ KU-suk-KU-suk 프로젝트는 이렇게 배포돼요!
 
 
-<img src="https://github.com/SWYP-3rd-period-1-team/zigzzang-backend/assets/58305106/280aeb89-089c-4a8d-9b85-a44d1f977e2c" alt="pick-git-logo" width="80%" style="height: auto;">
+
+![Frame](https://github.com/KONKUK-MAP-Service/.github/assets/58305106/20b29334-eb74-4cc4-b34c-331032b2dff8)
+
 
 
 
