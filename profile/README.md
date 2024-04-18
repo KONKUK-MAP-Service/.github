@@ -84,6 +84,7 @@
 <img src="https://img.shields.io/badge/Next_JS-black?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
 ### BE
 <img src="https://img.shields.io/badge/Java 17-007396?style=flat&logo=java&logoColor=white"/>
@@ -94,7 +95,8 @@
 
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/ELB-FF9900?style=flat&logo=amazon elb&logoColor=white"/> <img src="https://img.shields.io/badge/Api Gateway-FF9900?style=flat&logo=amazonapigateway&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 
 
 
@@ -102,9 +104,8 @@
 
 ## ⚙️ KU-suk-KU-suk 프로젝트는 이렇게 배포돼요!
 
+![image](https://github.com/KONKUK-MAP-Service/.github/assets/58305106/7d23c61d-30cc-4563-a037-fcb0c391712f)
 
-
-![image](https://github.com/KONKUK-MAP-Service/.github/assets/77543455/df6e05f2-e534-4090-962a-6804d54da0e4)
 
 
 
