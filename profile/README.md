@@ -40,9 +40,9 @@
         <a href="https://github.com/Hyeri1ee">이혜리</a>
     </td>
     <td align="center" width="130px">
-        <a href="https://github.com/ulsandonghun"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/ulsandonghun"/></a>
+        <a href="https://github.com/evergreenn"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/evergreenn"/></a>
         <br />
-        <a href="https://github.com/ulsandonghun">최동훈</a>
+        <a href="https://github.com/evergreenn">최동훈</a>
     </td>
     <td align="center" width="130px">
         <a href="https://github.com/akfrdma0125"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/akfrdma0125"/></a>
